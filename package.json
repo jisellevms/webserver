@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "serviço para verificaçao de licenças",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisellevms/webserver.git"
+  },
+  "keywords": [
+    "webserver"
+  ],
+  "author": "Mobile Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisellevms/webserver/issues"
+  },
+  "homepage": "https://github.com/jisellevms/webserver#readme"
+}
